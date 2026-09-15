@@ -29,20 +29,3 @@ This folder contains my **Exploratory Data Analysis (EDA)** tasks completed as p
 
 Here, I work with real-world datasets to understand how raw data can be transformed into meaningful information through:
 
-```text
-        📁 RAW DATA
-             │
-             ▼
-        🔍 EXPLORE
-             │
-             ▼
-        🧹 CLEAN
-             │
-             ▼
-        📊 ANALYZE
-             │
-             ▼
-        📈 VISUALIZE
-             │
-             ▼
-        💡 INSIGHTS
